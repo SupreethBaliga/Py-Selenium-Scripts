@@ -1,4 +1,5 @@
 # BandCamp Music Player
+This script is associated with automation of storing our play history of tracks from [https://bandcamp.com/](https://bandcamp.com/) in a csv file.
 ### Note:
 The structure of the web pages keep changing frequently. The following code correctly works as of the date: 24 March,2020.
 
