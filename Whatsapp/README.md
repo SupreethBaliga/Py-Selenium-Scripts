@@ -6,6 +6,9 @@ Any contributions from you guys are welcome. Just fork this repository, make cha
 
 Do star the repo if you think it worth it.
 
+## Note:
+The structure of web pages keep changing frequently. The following script works correctly as of 5th December, 2019.
+
 # Requirements (on your system)
 1. Chrome/Chromium Browser (https://www.google.com/chrome/browser)
 2. Chrome WebDriver (https://chromedriver.storage.googleapis.com/index.html?path=2.33/)
